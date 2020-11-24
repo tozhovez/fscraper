@@ -1,7 +1,7 @@
 import requests
 import json
 
-ACCESS_TOKEN = "EAAEocXFQnlMBALHENQtLvSQv3wv2BuTZBvoRHBCfSylwnvgqQyzZCZBQVfSBmjhkfeDuEYb4Kp21ZB4XFiABxaxRSZAprbGj7IE4xbd0ZCkrzbLQkHZBBUjswEseMS4l2ImfPTOOnxIVZCak3eFS888XT9aRpZBbDCg0VyAtpqufWrZA3ke931FFB6oAs0icKEmY4Bn6Js5QhKp2Ljh2sXZCMdo"
+ACCESS_TOKEN = "{ACCESS_TOKEN}"
 URL = f"https://graph.facebook.com/v7.0/natgeo/feed?access_token={ACCESS_TOKEN}"
 max_posts = 500
 
